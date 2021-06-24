@@ -1,4 +1,4 @@
-# Expertise.
+# Dr. Martín Lozano.
 
 **Areas of expertise.** Finance, Economics, Statistics, Data Science.
 
@@ -7,3 +7,5 @@
 **Research interests.** Empirical asset pricing; beta and SDF pricing models and tests; financial econometrics; GMM estimation and inference; portfolio allocation models and performance; computational finance; data science applications in business.
 
 **Teaching interests.** Introductory economics (microeconomics, macroeconomics), quantitative finance, computational finance with R, risk management, financial modeling, financial econometrics.
+
+**My full CV:** \href{https://github.com/mlozanoqf/resume/blob/master/cv-mlozano.pdf}{Latest CV}
