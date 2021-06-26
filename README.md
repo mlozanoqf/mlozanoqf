@@ -12,8 +12,6 @@
 
 [My updated CV in PDF.](https://github.com/mlozanoqf/resume/raw/master/cv-mlozano.pdf)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mlozanoqf&label=Profile%20views&color=0e75b6&style=flat" alt="mlozanoqf" /> </p>
-
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://github.com/mlozanoqf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="martin-lozano-21818a22" height="30" width="40" /></a>
@@ -23,5 +21,7 @@
 <a href="mailto:mlozanoqf@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mailto:mlozanoqf@gmail.com" height="30" width="40" /></a>
 <a href="https://scholar.google.com/citations?user=w8boOboAAAAJ&hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="googlescholar" height="30" width="40" /></a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mlozanoqf&label=Profile%20views&color=0e75b6&style=flat" alt="mlozanoqf" /> </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlozanoqf)](https://github.com/anuraghazra/github-readme-stats)
