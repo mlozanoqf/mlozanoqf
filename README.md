@@ -1,18 +1,20 @@
 # Dr. Martín Lozano.
 
-**Areas of expertise.** Finance, Economics, Statistics, Data Science.
+**Main areas.** Finance, Economics, Statistics, Data Science.
 
-**Computer skills.** Proficient in R, LaTeX and other languages like Octave, MATLAB, Weka, GGobi. Commercial software like E-Views, Stata, Gretl, SPSS, among others.
+**Programming skills.** Proficient in R. I am familiar with Octave, MATLAB, Python and LaTeX editors. 
+
+**Computer skills.** Weka, GGobi, E-Views, Stata, Gretl, SPSS, among others.
 
 **Research interests.** Empirical asset pricing; beta and SDF pricing models and tests; financial econometrics; GMM estimation and inference; portfolio allocation models and performance; computational finance; data science applications in business.
 
-**Teaching interests.** Introductory economics (microeconomics, macroeconomics), quantitative finance, computational finance with R, risk management, financial modeling, financial econometrics.
+**Teaching interests.** Introductory economics (microeconomics, macroeconomics), economic analysis, quantitative finance, computational finance with R, risk management, financial modeling, financial econometrics, statistics.
 
 [My updated CV in PDF.](https://github.com/mlozanoqf/resume/raw/master/cv-mlozano.pdf)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mlozanoqf&label=Profile%20views&color=0e75b6&style=flat" alt="mlozanoqf" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://github.com/mlozanoqf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="martin-lozano-21818a22" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/martin-lozano-21818a22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="martin-lozano-21818a22" height="30" width="40" /></a>
