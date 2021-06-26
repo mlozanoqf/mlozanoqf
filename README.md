@@ -22,4 +22,6 @@
 <a href="https://scholar.google.com/citations?user=w8boOboAAAAJ&hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="googlescholar" height="30" width="40" /></a>
 </p>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mlozanoqf)  
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlozanoqf)](https://github.com/anuraghazra/github-readme-stats)
