@@ -8,6 +8,6 @@
 
 **Teaching interests.** Introductory economics (microeconomics, macroeconomics), quantitative finance, computational finance with R, risk management, financial modeling, financial econometrics.
 
-\\[My updated CV](https://github.com/mlozanoqf/resume/blob/master/cv-mlozano.pdf)
+[My updated CV.](https://github.com/mlozanoqf/resume/blob/master/cv-mlozano.pdf)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlozanoqf)](https://github.com/anuraghazra/github-readme-stats)
