@@ -10,7 +10,7 @@
 
 **Teaching interests.** Introductory economics (microeconomics, macroeconomics), economic analysis, quantitative finance, computational finance with R, risk management, financial modeling, financial econometrics, statistics.
 
-[My updated CV in PDF.](https://github.com/mlozanoqf/resume/raw/master/cv-mlozano.pdf)
+[My updated CV.](https://mlozanoqf.github.io/resume/)
 
 ### Connect with me:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/mlozanoqf)
