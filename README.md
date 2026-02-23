@@ -16,7 +16,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=181717&style=flat-square)](https://github.com/mlozanoqf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=0A66C2&style=flat-square)](https://linkedin.com/in/martin-lozano-21818a22)
 [![YouTube](https://img.shields.io/badge/YouTube-white?logo=youtube&logoColor=FF0000&style=flat-square)](https://www.youtube.com/@ahyaentendi)
-[![Website](https://img.shields.io/badge/Website-white?logo=googlechrome&logoColor=4285F4&style=flat-square)](https://sites.google.com/site/mlozanoqf)
+[![Website](https://img.shields.io/badge/Website-white?logo=googlechrome&logoColor=4285F4&style=flat-square)](https://mlozanoqf.github.io/)
 [![Email](https://img.shields.io/badge/Email-white?logo=gmail&logoColor=D14836&style=flat-square)](mailto:mlozanoqf@gmail.com)
 [![Scholar](https://img.shields.io/badge/Scholar-white?logo=googlescholar&logoColor=4285F4&style=flat-square)](https://scholar.google.com/citations?user=w8boOboAAAAJ&hl=en)
 [![SSRN](https://img.shields.io/badge/SSRN-white?logo=readthedocs&logoColor=000000&style=flat-square)](https://ssrn.com/author=1490785)
