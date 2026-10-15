@@ -24,6 +24,6 @@ My interests include empirical asset pricing, financial econometrics, portfolio 
 
 ## Research and contact
 
-[CV](https://mlozanoqf.github.io/resume/) · [Google Scholar](https://scholar.google.com/citations?user=w8boOboAAAAJ&hl=en) · [SSRN](https://ssrn.com/author=1490785) · [LinkedIn](https://linkedin.com/in/martin-lozano-21818a22)
+[CV](https://mlozanoqf.github.io/resume/) · [Google Scholar](https://scholar.google.com/citations?user=w8boOboAAAAJ&hl=en) · [SSRN](https://ssrn.com/author=1490785) · [LinkedIn](https://www.linkedin.com/in/mlozanoqf)
 
 [Website](https://mlozanoqf.github.io/) · [Email](mailto:mlozanoqf@gmail.com) · [YouTube](https://www.youtube.com/@ahyaentendi) · [GitHub](https://github.com/mlozanoqf) · [Zoom](https://us02web.zoom.us/j/9209945512)
