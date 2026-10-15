@@ -1,27 +1,29 @@
-# Dr. Martín Lozano.
+# Dr. Martín Lozano
 
-**Main areas.** Finance, Economics, Statistics, Data Science.
+**Finance, econometrics and computational methods.**
 
-**Programming skills.** Proficient in R. I am familiar with Octave, MATLAB, Python and LaTeX editors. 
+My interests include empirical asset pricing, financial econometrics, portfolio allocation and computational finance. Here I share R-based books, course resources and tools for exploring financial data.
 
-**Computer skills.** Weka, GGobi, E-Views, Stata, Gretl, SPSS, among others.
+## Books with reproducible R examples
 
-**Research interests.** Empirical asset pricing; beta and SDF pricing models and tests; financial econometrics; GMM estimation and inference; portfolio allocation models and performance; computational finance; data science applications in business.
+- [Credit Risk with R](https://github.com/mlozanoqf/tutorial_arf): credit scoring, structural models, credit derivatives and portfolio risk.
+- [Financial Econometrics with R](https://github.com/mlozanoqf/tutorial_emf): forecasting, volatility models, asset pricing and GMM.
+- [Option Pricing with R](https://github.com/mlozanoqf/tutorial_if): payoffs, binomial models, risk-neutral valuation and Black-Scholes.
+- [Financial Modeling with R](https://github.com/mlozanoqf/tutorial_pmf): financial data, trading rules, portfolio allocation and risk.
 
-**Teaching interests.** Introductory economics (microeconomics, macroeconomics), economic analysis, quantitative finance, computational finance with R, risk management, financial modeling, financial econometrics, statistics.
+## Tools and outreach
 
-[My updated CV.](https://mlozanoqf.github.io/resume/)
+- [EDGAR Explorer](https://github.com/mlozanoqf/edgar): a Streamlit app for exploring SEC filings and company financial data.
+- [Ah, ya entendí.](https://github.com/mlozanoqf/ahyaentendi): code and teaching materials accompanying my [YouTube channel](https://www.youtube.com/@ahyaentendi).
 
-### Connect with me:
-[![GitHub](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=181717&style=flat-square)](https://github.com/mlozanoqf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=0A66C2&style=flat-square)](https://linkedin.com/in/martin-lozano-21818a22)
-[![YouTube](https://img.shields.io/badge/YouTube-white?logo=youtube&logoColor=FF0000&style=flat-square)](https://www.youtube.com/@ahyaentendi)
-[![Website](https://img.shields.io/badge/Website-white?logo=googlechrome&logoColor=4285F4&style=flat-square)](https://mlozanoqf.github.io/)
-[![Email](https://img.shields.io/badge/Email-white?logo=gmail&logoColor=D14836&style=flat-square)](mailto:mlozanoqf@gmail.com)
-[![Scholar](https://img.shields.io/badge/Scholar-white?logo=googlescholar&logoColor=4285F4&style=flat-square)](https://scholar.google.com/citations?user=w8boOboAAAAJ&hl=en)
-[![SSRN](https://img.shields.io/badge/SSRN-white?logo=readthedocs&logoColor=000000&style=flat-square)](https://ssrn.com/author=1490785)
-[![Zoom](https://img.shields.io/badge/Zoom-white?logo=zoom&logoColor=2D8CFF&style=flat-square)](https://us02web.zoom.us/j/9209945512)
+## Course syllabi
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mlozanoqf&label=Profile%20views&color=0e75b6&style=flat" alt="mlozanoqf" /> </p>
+- Financial Risk Management: [ARF1](https://github.com/mlozanoqf/ARF1) and [ARF2](https://github.com/mlozanoqf/ARF2).
+- Financial-Market Econometrics: [EMF1](https://github.com/mlozanoqf/EMF) and [EMF2](https://github.com/mlozanoqf/EMF2).
+- Quantitative Foundations in Finance: [FCF](https://github.com/mlozanoqf/FCF).
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlozanoqf)](https://github.com/anuraghazra/github-readme-stats)
+## Research and contact
+
+[CV](https://mlozanoqf.github.io/resume/) · [Google Scholar](https://scholar.google.com/citations?user=w8boOboAAAAJ&hl=en) · [SSRN](https://ssrn.com/author=1490785) · [LinkedIn](https://linkedin.com/in/martin-lozano-21818a22)
+
+[Website](https://mlozanoqf.github.io/) · [Email](mailto:mlozanoqf@gmail.com) · [YouTube](https://www.youtube.com/@ahyaentendi) · [GitHub](https://github.com/mlozanoqf) · [Zoom](https://us02web.zoom.us/j/9209945512)
